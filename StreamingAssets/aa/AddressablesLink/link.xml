@@ -1,0 +1,65 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="ARPGFX.ARPGFXRotation" preserve="all" />
+    <type fullname="MagicArsenal.MagicRotation" preserve="all" />
+    <type fullname="Wirtual.AvatarCustomizable" preserve="all" />
+    <type fullname="Wirtual.Category" preserve="all" />
+    <type fullname="Wirtual.Costume" preserve="all" />
+    <type fullname="Wirtual.LinkConstraint" preserve="all" />
+    <type fullname="Wirtual.WirtualResource" preserve="all" />
+    <type fullname="Wirtual.Categories" preserve="nothing" serialized="true" />
+    <type fullname="Wirtual.Category/CostumeReference" preserve="nothing" serialized="true" />
+    <type fullname="Wirtual.CategoryDictionary" preserve="nothing" serialized="true" />
+    <type fullname="Wirtual.ColorList" preserve="nothing" serialized="true" />
+    <type fullname="Wirtual.ClothsAnchor" preserve="nothing" serialized="true" />
+    <type fullname="Wirtual.ColorDictionary" preserve="nothing" serialized="true" />
+    <type fullname="Wirtual.ConstraintAnchor" preserve="nothing" serialized="true" />
+    <type fullname="Wirtual.CostumeColor" preserve="nothing" serialized="true" />
+    <type fullname="Wirtual.CostumeDictionary" preserve="nothing" serialized="true" />
+    <type fullname="Wirtual.CostumePreset" preserve="nothing" serialized="true" />
+    <type fullname="Wirtual.CostumeCondition" preserve="nothing" serialized="true" />
+    <type fullname="Wirtual.MaterialPreset" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceGameObject" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceT`1[Wirtual.Costume]" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animation" preserve="all" />
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animations.ParentConstraint" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.Avatar" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Cubemap" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="Sirenix.Serialization">
+    <type fullname="Sirenix.Serialization.SerializationData" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
